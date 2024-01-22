@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Spanish
 - 🌱 I’m currently want to create a Spanish Flashcard app for Tydbit
 - 📫 How to reach me ...lamorte@duck.com
-- 😄 Pronouns: ...HE
+- 😄 Pronouns: ...He / Him
 - ⚡ Fun fact: ... Feelings are facts. 
 
 <!---
